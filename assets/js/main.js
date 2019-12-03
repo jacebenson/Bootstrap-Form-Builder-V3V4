@@ -1,11 +1,11 @@
 require.config({
   baseUrl: "assets/js/lib/",
   paths: {
-	'jquery': 'http://code.jquery.com/jquery-2.1.0',
-	'mustache' : "http://rawgithub.com/janl/mustache.js/master/mustache",
-	'bootstrap' : "http://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap",
-	'underscore' :  "https://rawgithub.com/jashkenas/underscore/master/underscore",
-	'text'  : "https://rawgithub.com/requirejs/text/latest/text",
+	'jquery': '//code.jquery.com/jquery-2.1.0',
+	'mustache' : "//rawgithub.com/janl/mustache.js/master/mustache",
+	'bootstrap' : "//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap",
+	'underscore' :  "//rawgithub.com/jashkenas/underscore/master/underscore",
+	'text'  : "//rawgithub.com/requirejs/text/latest/text",
 	'app'   : "..",
 	 collections : "../collections", 
 	 data        : "../data", 
